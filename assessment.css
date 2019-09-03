@@ -1,0 +1,37 @@
+
+td{
+  width: 130px;
+  height: 300px;
+  border: 6px solid white;
+
+
+}
+#one{
+  background-color: #FFCBDB;
+  text-align: center;
+
+}
+#two{
+  background-color: #FDF085;
+  text-align: center;
+}
+#three{
+  background-color: #BDECB6;
+  text-align: center;
+}
+#four{
+  background-color: #B7EFFB;
+  text-align: center;
+}
+#five{
+  background-color: #E3C6F0;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  font-family:'Roboto', sans-serif;
+}
+table{
+  margin:auto;
+  ;
+}
